@@ -1,5 +1,3 @@
-This repository contains the data used to plot graphs in the paper titled "Comparing satellite and ground--based observations of cloud occurrence over high southern latitudes" submitted to JGR Atmospheres.
-
 Figure 1: 
 Latitudinal distributions of cloud occurrence were plotted using the arrays "Figure1_2BCL5_ice", "Figure1_2BCL5_mixed", and "Figure1_2BCL5_water" across the grid given by the "Figure1_contour_height" and "Figure1_contour_lat" arrays.
 
