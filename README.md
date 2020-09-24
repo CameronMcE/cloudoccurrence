@@ -1,7 +1,5 @@
 Figure 1: 
-Latitudinal distributions of cloud occurrence were plotted using the arrays "Figure1_2BCL5_ice", "Figure1_2BCL5_mixed", and "Figure1_2BCL5_water" across the grid given by the "Figure1_contour_height" and "Figure1_contour_lat" arrays.
-
-Temperature isotherms were plotted using the "Figure1_contour_temperature" array across the grid given by the "Figure1_contour_temp_height" and "Figure1_contour_temp_latitude" arrays
+Latitudinal distributions of cloud occurrence were plotted using the arrays "Figure1_2BCL5_ice", "Figure1_2BCL5_mixed", and "Figure1_2BCL5_water" across the grid given by the "Figure1_contour_height" and "Figure1_contour_lat" arrays. Temperature isotherms were plotted using the "Figure1_contour_temperature" array across the grid given by the "Figure1_contour_temp_height" and "Figure1_contour_temp_latitude" arrays
 
 Figure 2:
 Differences in the latitudinal distributions of cloud occurrence between 2BCL5 and DARDAR can be plotted by subtracting the arrays used in Figure 1 from the "Figure2_DARDAR_ice", "Figure2_DARDAR_mixed" and "Figure2_DARDAR_water" arrays over the same grid. Temperature isotherms were plotted as in Figure 1.
