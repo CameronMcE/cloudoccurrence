@@ -16,7 +16,7 @@ Figure 5:
 The ratio between satellite and ground–based cloud occurrence at different altitudes is plotted using the "Figure5_2BCL5_AWARE_ratio", "Figure5_2BCL5_DARDAR_ratio" and "Figure5_DARDAR_AWARE_ratio" arrays, with the medians gives by the "Figure5_2BCL5_AWARE_median", "Figure5_2BCL5_DARDAR_median" and "Figure5_DARDAR_AWARE_median" arrays. The arrays "Figure5_ratio_xaxis" and "Figure5_altitude" give the grid for plotting.
 
 Figure 6:
-
+The statistics can be plotted using the files "Figure7_2BCL5_stats" and "Figure7_2BCL5_stats". Arrays are of the shape (10,4) where the first dimension gives the altitude bins from 0 to 10 km and the second dimension gives the statistics of the form (t-value, p-value for the t-test, K-S value, p-value for the K-S test)
 Figure 7:
 Normalised cloud occurrences as a function of temperature can be plotted for 2BCL5, DARDAR and AWARE for the different phases (Ice, Mixed and Liquid for 2BCL5/DARDAR, Ice, Liquid and Unknown for AWARE), where "ECMWF" and "Radiosonde" is used to distinguish between the temprature datasets. "Figure7_temperatures" gives the temperatures across the x-axis values.
 
